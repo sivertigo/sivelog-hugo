@@ -1,5 +1,6 @@
 #!/bin/sh
 echo "start deploying the weblog."
+rm -rf ./docs
 hugo
 rm -rf ./sivertigo.github.io/*
 cp ./CNAME ./sivertigo.github.io/
