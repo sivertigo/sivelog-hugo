@@ -1,6 +1,6 @@
 
 hasCJKLanguage = true
-baseurl = "https://sivertigo.github.io/docs"
+baseurl = "https://sivertigo.github.io/"
 languageCode = "UTF-8"
 defaultContentLanguage = "ja"
 title = "Sivelog"
