@@ -21,7 +21,7 @@ publishDir = "docs"
 [author]
   name = "T.Sugawara"
   bio = "I'm looking for something exciting everyday."
-  job = "Developer"
+  job = "Software Developer"
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "sg.tak22@gmail.com"
